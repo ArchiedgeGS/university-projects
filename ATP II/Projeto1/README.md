@@ -1,0 +1,1 @@
+This project takes numbers in order on a txt file and creates a polinomial using the numbers as the coeficients. It uses two files to make two polinomials and them the project makes multiple polinomial operations with them
