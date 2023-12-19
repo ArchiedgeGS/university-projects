@@ -1,0 +1,1 @@
+This project takes any number of images in the PGM format and manipulates them in multiple ways
